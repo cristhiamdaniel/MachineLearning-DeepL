@@ -1,2 +1,1 @@
-# MachineLearning-DeepL
-Fundamentos del Aprendizaje de Maquina.
+Libro guía: Machine Learning y Deep Learning usando Python, Scikit y Keras, Jesús Bobadilla
